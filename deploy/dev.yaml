@@ -7,4 +7,5 @@ metadata:
 description: dev
 gke:
   cluster: projects/our-velocity-451107-j0/locations/us-central1-c/clusters/cluster-1
+  serviceAccount: gke-cicd-svacct@our-velocity-451107-j0.iam.gserviceaccount.com
 
