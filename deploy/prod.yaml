@@ -7,5 +7,5 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/our-velocity-4511/locations/us-central1-c/clusters/cluster-2
+  cluster: projects/our-velocity-451107-j0locations/us-central1-c/clusters/cluster-2
 

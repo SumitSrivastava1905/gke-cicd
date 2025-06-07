@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/our-velocity-4511/locations/us-central1-c/clusters/cluster-1
+  cluster: projects/our-velocity-451107-j0/locations/us-central1-c/clusters/cluster-1
 
