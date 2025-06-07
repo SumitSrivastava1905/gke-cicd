@@ -8,11 +8,13 @@ description: cicd delivery pipeline
 serialPipeline:
   stages:
   - targetId: dev
+    serviceAccount: gke-cicd-svacct@our-velocity-451107-j0.iam.gserviceaccount.com
     # profiles:
     # - dev
   # - targetId: staging
   #   profiles:
   #   - staging
   - targetId: prod
+    serviceAccount: gke-cicd-svacct@our-velocity-451107-j0.iam.gserviceaccount.com
   #   profiles:
   #   - prod
